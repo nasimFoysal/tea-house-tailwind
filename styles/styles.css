@@ -1,0 +1,16 @@
+*{
+    font-family: 'Manrope', sans-serif;
+    
+}
+
+.my-gradient{
+    background:  linear-gradient(270deg, #F00 0%, #FF8938 100%);;
+}
+
+.my-shadow{
+    box-shadow: 0px 7px 50px 0px rgba(0, 0, 0, 0.06);
+}
+
+body{
+    padding-bottom: 200px;
+}
